@@ -1,8 +1,11 @@
 # Lab8Web
-**Nama    : Wahyudi Hermawan <br>
-NIM     : 311910106 <br>
-Kelas   : TI.19.B1** <br>
-**Tugas Pemrograman WEB pertemuan ke-10 (Praktikum 8)** <br>
+```bash
+Nama      : Robi Abda'u
+NIM       : 311910563
+Kelas     : TI.19.B1
+M. Kuliah : Pemograman Web
+Dosen     : Agung Nugroho,S.Kom.,M.Kom
+```
 
 **1. Membuat database <br>**
 ![image](https://user-images.githubusercontent.com/81253746/120158591-7e609b80-c21e-11eb-86da-c23a9d6d64b3.png) <br>
